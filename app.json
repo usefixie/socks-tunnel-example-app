@@ -1,11 +1,11 @@
 {
-  "name": "Fixie Socks Tunnel Example App",
-  "description": "A simple app demonstrating how to achieve a static outbound IP address for TCP connections using Fixie Socks local port forwarding",
+  "name": "Fixie-Wrench Example App",
+  "description": "A simple app demonstrating how to achieve a static outbound IP address for TCP connections using Fixie Socks and the fixie-wrench library",
   "repository": "https://github.com/usefixie/socks-tunnel-example-app",
   "logo": "https://usefixie.com/img/logo.svg",
   "keywords": ["Fixie", "Socks", "SOCKSv5", "static", "tunnel", "IP"],
   "website": "https://usefixie.com",
-  "stack": "heroku-20",
+  "stack": "heroku-22",
   "addons": [
     {
       "plan": "fixie-socks"
