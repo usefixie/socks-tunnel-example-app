@@ -9,5 +9,5 @@ For more information, see the [fixie-wrench documentation](https://github.com/us
 
 ## Deploy to Heroku
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
