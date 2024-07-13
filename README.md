@@ -9,5 +9,9 @@ For more information, see the [fixie-wrench documentation](https://github.com/us
 
 ## Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+## Deploy to Koyeb
+
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&name=fixie-wrench-example-app&repository=github.com/usefixie/fixie-wrench-example-app&branch=add-koyeb-support&ports=8080;http;/&)
 
